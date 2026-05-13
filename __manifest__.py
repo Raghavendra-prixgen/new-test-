@@ -1,6 +1,6 @@
 {
     'name': 'Sample Hello Odoo',
-    'version': '2.0',
+    'version': '3.0',
     'summary': 'Sample module for Odoo.sh deployment',
     'author': 'OpenAI',
     'category': 'Tools',
